@@ -10,18 +10,18 @@ Currently working on a passion project to build sports team recruitment assistan
 
 ---
 ### 🧰 Languages and Tools
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Spark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Hadoop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="Collibra" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Hive" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Databricks" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
-<img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/anaconda/original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/python/python-plain.svg" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="Spark" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/apachespark/apachespark-original.svg"/>
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/mongodb/mongodb-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/linux/linux-original.svg" />
+<img align="left" alt="Hadoop" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/html5/hadoop-plain.svg" />
+<img align="left" alt="Collibra" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/css3/collibra-plain.svg" />
+<img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/javascript/jenkins-plain.svg" />
+<img align="left" alt="Hive" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/react/hive-original.svg" />
+<img align="left" alt="Databricks" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/anaconda/anaconda-original.svg" />
 <br />
