@@ -8,7 +8,8 @@ Currently working on a passion project to build sports team recruitment assistan
 - Multi-modular development (scikit-learn, Tensorflow, DAGs, Random Forests)
 - Error-handling(logging), Versioning(github), Governance(Collibra), Deployment (Spark, FastAPI)
 
-
+3+ years of experience as Data engineer and MLOps engineer; designing, developing, deploying, and optimizing
+scalable, robust data pipelines and data warehousing solutions in the Big Data domain. Developing python scripts for privacy-preserved record linkage, ML models for removing bias in fair lending policies, developing deploy scripts for MLOps platform are a few among the things I've worked on. 
 
 ---
 ### 🧰 Languages and Tools
