@@ -1,5 +1,5 @@
 ### Hi! This is Praharsh Koppula.
-#### Worked for 3 years in Data engineering and Model development realm
+#### Worked for 3 years in Data engineering and Model development realm, and 1+ years as a Full-stack Engineer
 
 Currently working on a passion project to build sports team recruitment assistant from scratch.
 - Data collection using Web Scraping (beautifulsoup4, scrapy) and open APIs in python.
@@ -10,6 +10,8 @@ Currently working on a passion project to build sports team recruitment assistan
 
 3+ years of experience as Data engineer and MLOps engineer; designing, developing, deploying, and optimizing
 scalable, robust data pipelines and data warehousing solutions in the Big Data domain. Developing python scripts for privacy-preserved record linkage, ML models for removing bias in fair lending policies, developing deploy scripts for MLOps platform are a few among the things I've worked on. 
+
+1+ years of experience as Full-stack engineer; developing application modules using Java and springboot/GraphQL for the credit cards data domain in the fintech space; completed cloud migration projects single-handedly on AWS Suite. 
 
 ---
 ### 🧰 Languages and Tools
